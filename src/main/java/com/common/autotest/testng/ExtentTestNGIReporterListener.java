@@ -1,4 +1,4 @@
-package com.common.testng;
+package com.common.autotest.testng;
 
 import com.aventstack.extentreports.ExtentReporter;
 import com.aventstack.extentreports.ExtentReports;

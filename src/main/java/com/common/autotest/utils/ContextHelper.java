@@ -1,4 +1,4 @@
-package com.common.utils;
+package com.common.autotest.utils;
 
 import com.mysql.jdbc.StringUtils;
 

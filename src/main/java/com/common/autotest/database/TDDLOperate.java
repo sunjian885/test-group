@@ -1,4 +1,4 @@
-package com.common.database;
+package com.common.autotest.database;
 
 import java.util.List;
 import java.util.Map;

@@ -1,7 +1,7 @@
-package com.common.database;
+package com.common.autotest.database;
 
+import com.common.autotest.utils.ConfigProperty;
 import com.mysql.jdbc.StringUtils;
-import com.common.utils.ConfigProperty;
 
 public class DBInfo {
     public DBInfo() {

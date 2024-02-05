@@ -1,4 +1,4 @@
-package com.common.testng;
+package com.common.autotest.testng;
 
 import java.util.ArrayList;
 import java.util.Arrays;
