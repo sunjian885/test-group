@@ -9,11 +9,11 @@ public class test {
         Frame frame = new Frame("孙健");
         frame.setVisible(true);
         frame.setBackground(Color.green);
-        frame.setSize(400,500);
+        frame.setSize(500,500);
         frame.setLocation(30,50);
-        Button button = new Button();
-        button.setName("确定");
-        button.setSize(22,33);
+        frame.setLayout(new FlowLayout());
+        Button button = new Button("确定");
+        button.setSize(222,333);
         frame.add(button,BorderLayout.CENTER);
         frame.addWindowListener(new WindowAdapter() {
             @Override

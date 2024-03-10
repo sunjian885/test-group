@@ -1,4 +1,4 @@
-package com.sunjian.test;
+package com.sunjian.thread;
 
 import java.util.concurrent.locks.ReentrantLock;
 

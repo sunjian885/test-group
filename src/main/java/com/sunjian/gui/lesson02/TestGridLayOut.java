@@ -1,4 +1,4 @@
-package com.sunjian.gui.lesson01;
+package com.sunjian.gui.lesson02;
 
 import java.awt.*;
 import java.awt.event.WindowAdapter;
